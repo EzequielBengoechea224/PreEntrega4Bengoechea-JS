@@ -1,0 +1,6 @@
+[
+    {"id":1,"nombre":"Remera FAAC","precio":20,"urlImg":"https://i.pinimg.com/550x/aa/e5/31/aae5310bb7af7bf1d514a78ed307c214.jpg" },
+    {"id":2,"nombre":"Motor FAAC","precio":100,"urlImg":"https://irtec.com.ar/wp-content/uploads/2020/01/corr-746-381x400.jpg" },
+    {"id":3,"nombre":"Remera ROSSI","precio":15,"urlImg":"https://acdn.mitiendanube.com/stores/001/704/127/products/remera-basica-negra21-fc02f7cdc2223f853616861651196036-480-0.png" },
+    {"id":4,"nombre":"Motor ROSSI","precio":80,"urlImg":"https://www.mundo-portones.cl/wp-content/uploads/2018/12/motor-corredera-ROSSI-DZ4.jpg" } 
+]

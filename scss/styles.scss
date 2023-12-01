@@ -1,0 +1,33 @@
+#prueba{
+    border: 1px solid blue;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.gradiantBlue{
+    background-image: linear-gradient(rgb(96, 96, 252),rgb(255, 255, 255));
+}
+
+.bgBotton{
+    border-bottom: 2px solid black;
+}
+
+.flex{
+    display: flex;
+}
+
+.imgSize{
+    height: 13rem;
+    width: 13rem;
+}
+
+.shadow{
+    box-shadow: 3rem 2rem;
+}
+
+.borderProds{
+    border: 0.5rem double rgb(69, 69, 251);
+}
+
